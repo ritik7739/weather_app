@@ -8,15 +8,10 @@ A React-based Weather Forecast App that allows users to view the current weather
 - **City Search**: Allows users to search for any city using a custom dropdown search box, with real-time weather data fetched from OpenWeather API.
 - **5-Day Forecast**: Displays a 5-day weather forecast with high/low temperatures, weather conditions, and an icon representing the forecast.
 - **Temperature Unit Conversion**: Switch between Celsius and Fahrenheit with a simple toggle button.
-- **Responsive Design**: Ensures the app looks great on all devices, from mobile to desktop.
-  
-## Demo
+- **Responsive Design**: Ensures the app looks great on all devices, from mobile to desktop## Screenshots
 
-You can access the live demo of the app here: [Live Demo Link](#)
 
-## Screenshots
-
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](./src/public/screenshot.png)
 
 ## Installation
 
